@@ -4,7 +4,7 @@
   "description": "828 AntiELAB #metoo Rally",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -b master -d dist"
   },
   "repository": {
     "type": "git",
